@@ -24,7 +24,7 @@ It is easiest to reach me [via email](mailto:info@bartholomae.name), but you can
 * __Caring about each other__ makes life better for everyone. Therefore I try to take care of everyone in my sphere of influence.
 * We should all in principle __follow the same rules__ and therefore I have a hard time with rules that don’t apply universally.
 * Working in a group where __everyone gives their best__ is more pleasant and effective than everyone "just doing their job". This doesn't mean spending every wake hour on the job, or not having off days. It is about attitude. Therefore I try to hold everyone including myself up to the highest standards.
-* __Transparency and honesty__ both make working more pleasant and effective. Therefore I like to discuss ideas openly and get feedback from others.
+* __Transparency and candor__ both make working more pleasant and effective. Therefore I like to discuss ideas openly and get feedback from others.
 * __Making mistakes__ and learning from them is an important part of life. Therefore I always look for what to learn from mistakes, never for punishing anyone involved.
 * The only way to find out something is to actually try it. Therefore I am usually looking for an __experiment that allows to get feedback with the least energy required__. It makes sense to learn from what others have learnt to find the right experiments, but then skipping the experiment alltogether is dangerous.
 * Especially in software development we tend to plan too much ahead. Therefore I prefer __just-in-time optimization__: Not too early where I don't know yet what to optimize for, but only when the optimization actually becomes necessary.
@@ -32,7 +32,8 @@ It is easiest to reach me [via email](mailto:info@bartholomae.name), but you can
 ### What people tell me I'm good at
 
 * __Building and coaching teams and individuals__ to achieve great things while having fun.
-* Meaning well and __deeply caring about the people I work with__. I believe that my job is always to help others to be successful, never to fight against them.
+* Meaning well and __deeply caring about the people I work with__.
+* __Helping others__ to be successful.
 * __Rapidly understanding complex problems__ by probing with questions and thinking through topics.
 * Forcing __decisions not to do things__ instead of wasting time on something that might not be the most effective way to go forward.
 
@@ -41,7 +42,7 @@ It is easiest to reach me [via email](mailto:info@bartholomae.name), but you can
 * I can be __very direct__. Please let me know if I am too direct. Feel free to be direct and open with me yourself to let me know.
 * It can be __hard to read my emotions__. Sometimes this means that I don’t seem appropriately concerned, but me remaining calm does not mean that I do not care or do not take the situation seriously. If you are unsure about my emotions, feel free to just ask.
 * Entertaining large groups of people isn't my strong suit. I prefer to __meet one-on-one and in smaller groups__.
-* I'm especially __bad at remembering things__. This is one of the reasons why I prefer written communication where I can just look up things.
+* I'm especially __bad at remembering things__. This is one of the reasons why I prefer written communication where I can just look things up.
 * Following orders can be hard for me. Specifically it is __hard for me to do things without understanding__ the reasoning behind it, or at least why there is no time to understand that reasoning right now. This also sometimes leads me to interfere with other peoples' responsibilities.
 
 ### Handling stress
