@@ -1,4 +1,4 @@
-[![Follow on Twitter](https://img.shields.io/twitter/follow/the_startup_cto?style=social)](https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/the_startup_cto?style=social)](https://twitter.com/The_Startup_CTO?ref_src=twsrc%5Etfw)
 [![Join on Discord](https://img.shields.io/discord/750063320614174871)](https://discord.gg/X9HRSK5)
 [![Watch on Twitch](https://img.shields.io/twitch/status/the_startup_cto)](https://www.twitch.tv/the_startup_cto)
 
