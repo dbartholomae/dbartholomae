@@ -1,3 +1,7 @@
+[![Follow on Twitter](https://img.shields.io/twitter/follow/the_startup_cto?style=social)](https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw)
+[![Join on Discord](https://img.shields.io/discord/750063320614174871)](https://discord.gg/X9HRSK5)
+[![Watch on Twitch](https://img.shields.io/twitch/status/the_startup_cto)](https://www.twitch.tv/the_startup_cto)
+
 Hi there 👋!
 
 I'm Daniel. If you read this, it might well be that I sent you the link so you can learn more about working with me. Or you might just have stumbled upon this page, in which case: Nice to meet you! :)
