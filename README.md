@@ -59,7 +59,7 @@ I am not easily stressed and will remain calm even in situations where others mi
 
 ### Productive times
 
-My productive times can vary by day. I tend to be more productive later in the day, thouugh, and usually prefer not starting work before 09:00 am.
+My productive times can vary by day. I tend to be more productive later in the day, though, and usually prefer not starting work before 09:00 am.
 
 ### Communicating with me
 
