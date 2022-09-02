@@ -1,6 +1,4 @@
 [![Follow on Twitter](https://img.shields.io/twitter/follow/the_startup_cto?style=flat)](https://twitter.com/The_Startup_CTO?ref_src=twsrc%5Etfw)
-[![Join on Discord](https://img.shields.io/discord/750063320614174871)](https://discord.gg/X9HRSK5)
-[![Watch on Twitch](https://img.shields.io/twitch/status/the_startup_cto)](https://www.twitch.tv/the_startup_cto)
 
 Hi there 👋!
 
@@ -18,7 +16,7 @@ You can find my professional exploits on [my LinkedIn profile](https://www.linke
 
 ### Where to find me online
 
-It is easiest to reach me [via email](mailto:info@bartholomae.name), but you can also [follow me on Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdbartholomae%2Fdbartholomae%2F&ref_src=twsrc%5Etfw&screen_name=The_Startup_CTO&tw_p=followbutton), [join our coding Discord server](https://discord.gg/X9HRSK5) or [watch me stream on Twitch](https://www.twitch.tv/the_startup_cto). From time to time I also write [blog articles](http://startup-cto.net/).
+It is easiest to reach me [via email](mailto:info@bartholomae.name), but you can also [follow me on Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdbartholomae%2Fdbartholomae%2F&ref_src=twsrc%5Etfw&screen_name=The_Startup_CTO&tw_p=followbutton). From time to time I also write [blog articles](http://startup-cto.net/).
 
 ## Understanding me
 
