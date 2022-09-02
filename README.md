@@ -1,5 +1,3 @@
-![Metrics](https://metrics.lecoq.io/dbartholomae?template=classic&base.activity=0&base.community=0&base.metadata=0&followup=1&languages=1&posts=1&tweets=1&posts.limit=4&posts.user=the_startup_cto&posts.source=dev.to&tweets.limit=2&config.timezone=Europe%2FBerlin&config.animated=true)
-
 [![Follow on Twitter](https://img.shields.io/twitter/follow/the_startup_cto?style=flat)](https://twitter.com/The_Startup_CTO?ref_src=twsrc%5Etfw)
 [![Join on Discord](https://img.shields.io/discord/750063320614174871)](https://discord.gg/X9HRSK5)
 [![Watch on Twitch](https://img.shields.io/twitch/status/the_startup_cto)](https://www.twitch.tv/the_startup_cto)
