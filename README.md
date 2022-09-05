@@ -46,7 +46,7 @@ It is easiest to reach me [via email](mailto:info@bartholomae.name), but you can
 * It can be __hard to read my emotions__. Sometimes this means that I don’t seem appropriately concerned, but me remaining calm does not mean that I do not care or do not take the situation seriously. If you are unsure about my emotions, feel free to just ask.
 * Entertaining large groups of people isn't my strong suit. I prefer to __meet one-on-one and in smaller groups__.
 * I'm especially __bad at remembering things__. This is one of the reasons why I prefer written communication where I can just look things up.
-* Following orders can be hard for me. Specifically it is __hard for me to do things without understanding__ the reasoning behind it, or at least why there is no time to understand that reasoning right now. This also sometimes leads me to interfere with other peoples' responsibilities.
+* Following orders can be hard for me. Specifically it is __hard for me to do things without understanding__ the reasoning behind it, or at least why there is no time to understand that reasoning right now. This also sometimes leads me to interfere with other people's responsibilities.
 
 ### Handling stress
 
