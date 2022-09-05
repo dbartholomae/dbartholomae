@@ -28,7 +28,7 @@ It is easiest to reach me [via email](mailto:info@bartholomae.name), but you can
 * Working in a group where __everyone gives their best__ is more pleasant and effective than everyone "just doing their job". This doesn't mean spending every wake hour on the job, or not having off days. It is about attitude. Therefore I try to hold everyone including myself up to the highest standards.
 * __Transparency and candor__ both make working more pleasant and effective. Therefore I like to discuss ideas openly and get feedback from others.
 * __Making mistakes__ and learning from them is an important part of life. Therefore I always look for what to learn from mistakes, never for punishing anyone involved.
-* The only way to find out something is to actually try it. Therefore I am usually looking for an __experiment that allows to get feedback with the least energy required__. It makes sense to learn from what others have learnt to find the right experiments, but then skipping the experiment alltogether is dangerous.
+* The only way to find out something is to actually try it. Therefore I am usually looking for an __experiment that allows to get feedback with the least energy required__. It makes sense to learn from what others have learnt to find the right experiments, but then skipping the experiment all-together is dangerous.
 * Especially in software development we tend to plan too much ahead. Therefore I prefer __just-in-time optimization__: Not too early where I don't know yet what to optimize for, but only when the optimization actually becomes necessary.
 
 ### What people tell me I'm good at
