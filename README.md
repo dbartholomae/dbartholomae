@@ -78,7 +78,7 @@ If you don't have my phone number but think you might need it, just let me know.
 
 ### Preferred pronouns
 
-My preferred pronouns are `he/him/his`.
+My preferred pronouns are `they/them`, but I'm also comfortable with `he/him/his`.
 
 ### How to pronounce my name
 
